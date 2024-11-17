@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/namanx19/namanx19/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PrateeksTime/PrateeksTime/output/snake.svg" alt="Snake animation" />
 
 ###
 
